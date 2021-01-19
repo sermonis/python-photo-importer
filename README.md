@@ -1,5 +1,6 @@
 # Photo Importer
 Command line tools for photo importing/renaming/rotating
+![Статья на Хабре](https://habr.com/ru/post/537684/)
 ### Features:
   * Media files scan
   * Time when picture was taken detection (by EXIF, by file name, by file attributes)
