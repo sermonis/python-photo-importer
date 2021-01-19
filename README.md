@@ -1,4 +1,4 @@
-# Photo Importer ([Статья на Хабре](https://habr.com/ru/post/537684/))
+# Photo Importer ([статья на Хабре](https://habr.com/ru/post/537684/))
 Command line tools for photo importing/renaming/rotating   
 
 ### Features:
